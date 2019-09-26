@@ -2,6 +2,7 @@
   "name": "hr-test-react",
   "private": true,
   "dependencies": {
+    "axios": "^0.19.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8"
@@ -26,6 +27,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "node-sass": "^4.12.0",
     "prettier": "^1.16.4"
   }
 }

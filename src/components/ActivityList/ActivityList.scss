@@ -1,0 +1,16 @@
+.activity-list {
+  .wrapper-activity {
+    .date {
+      margin-top: 40px;
+      font-weight: bold;
+      border-bottom: 1px solid #000;
+      padding-bottom: 5px;
+    }
+
+    &:first-child {
+      .date {
+        margin-top: 0;
+      }
+    }
+  } // wrapper-activity
+}
